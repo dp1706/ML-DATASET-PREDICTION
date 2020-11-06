@@ -1,4 +1,4 @@
-![](https://travis-ci.com/dp1706/ML-DATASET-PREDICTION.svg?branch=main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dp1706/ML-DATASET-PREDICTION/HEAD)
 
 # ML DATASET PREDICTION
 
