@@ -5,3 +5,5 @@
 * __Digit Recognizer__
 
 * __Wine Quality Prediction__
+
+* __Spelling Recommender__
